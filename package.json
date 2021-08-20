@@ -1,0 +1,19 @@
+{
+  "name": "adbrestapi",
+  "version": "1.0.0",
+  "description": "REST-API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server "
+  },
+  "author": "Amit Shahi",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1",
+    "mongoose": "^5.13.7",
+    "request": "^2.88.2"
+  }
+}

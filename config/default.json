@@ -1,0 +1,3 @@
+{
+  "dbURL": "mongodb+srv://amit123:amit123@restapi-cluster.arsqk.mongodb.net/test?retryWrites=true&w=majority"
+}
